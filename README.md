@@ -14,3 +14,8 @@ Ordinary man pages can only be accessed if you have that software installed. The
 
 1. wget
 2. links
+
+# Installation
+
+Clone the files using  `git clone https://github.com/tellmeY18/ohMAN.git`
+cd into the directory and Copy the script to /bin folder `sudo cp ohman.sh /bin/ohman`
